@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">formation2_layouts</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="bienvenue">Bienvenue à IAC \n</string>
+    <string name="nom_hint">nom</string>
+    <string name="prenom_hint">prenom</string>
+    <string name="atelier">Choisissez un atelier</string>
+    <string name="atelier1">JAVA SDK</string>
+    <string name="atelier2">GAMING</string>
+    <string name="atelier3">ROBOTIQUE</string>
+    <string name="atelier4">WEB MOBILE</string>
+    <string name="staff">Rejoindre le staff</string>
+    <string name="button_valider">Je valide ! </string>
+    <string name="error">Champ obligatoire ! </string>
+    <string name="dialog_title">Confirmation</string>
+    <string name="annuler">Annuler</string>
+    <string name="confirmer">Confirmer</string>
+
+</resources>
