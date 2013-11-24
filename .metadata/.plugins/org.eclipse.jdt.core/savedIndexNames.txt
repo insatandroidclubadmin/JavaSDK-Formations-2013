@@ -1,0 +1,10 @@
+INDEX VERSION 1.126+D:\Programming\IAC Java SDK\.metadata\.plugins\org.eclipse.jdt.core
+1799940085.index
+3393257236.index
+932590589.index
+1587985184.index
+1213622060.index
+3650080201.index
+3252051707.index
+1803758042.index
+3067255655.index
