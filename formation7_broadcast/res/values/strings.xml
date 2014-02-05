@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReceiverTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="list_num_sortant_interdits">
+        <item>22673343</item>
+        <item>12345</item>
+    </string-array>
+    
+    <string-array name="list_num_entrant_interdits">
+        <item>22673343</item>
+        <item>12345</item>
+    </string-array>
+    
+    <string name="label_sortant">Liste numéros sortant interdits</string>
+    
+    <string name="label_entrant">Liste numéros entrant interdits</string>
+
+</resources>
